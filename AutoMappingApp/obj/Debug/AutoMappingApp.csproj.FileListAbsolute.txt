@@ -1,0 +1,10 @@
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\bin\Debug\AutoMappingApp.exe.config
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\bin\Debug\AutoMappingApp.exe
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\bin\Debug\AutoMappingApp.pdb
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\obj\Debug\AutoMappingApp.csprojAssemblyReference.cache
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\obj\Debug\AutoMappingApp.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\obj\Debug\AutoMappingApp.exe
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\obj\Debug\AutoMappingApp.pdb
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\bin\Debug\AutoMapper.dll
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\bin\Debug\AutoMapper.xml
+C:\DEVELOPMENT\AutoMappingApp\AutoMappingApp\AutoMappingApp\obj\Debug\AutoMappingApp.csproj.CopyComplete
